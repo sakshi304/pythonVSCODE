@@ -1,0 +1,6 @@
+ID,	 name,	rollno,		emailid,		   address,		mobileno,		p1,	   p2,	 p3,   p4,  p5,		total,	   percentage,	result
+1,	,sakshi,	,1,		,1235@gamil.com,	,virar,		,2164646,    ,45,   ,45,  ,45,  ,45,   ,45,  ,225,		,90.0,		,pass
+2,	,purva,	,2,		,1236@gamil.com,	,pune,		,46626,    ,8,   ,7,  ,9,  ,5,   ,2,  ,31,		,12.4,		,fail
+ID,	 name,	rollno,		emailid,		   address,		mobileno,		p1,	   p2,	 p3,   p4,  p5,		total,	   percentage,	result
+1,	,sanika,	,3,		,1235@gamil.com,	,sdasd,		,45421,    ,8,   ,7,  ,9,  ,5,   ,2,  ,31,		,12.4,		,fail
+2,	,shreya,	,4,		,1236@gamil.com,	,ecwwecewfw,		,26323,    ,5,   ,8,  ,44,  ,44,   ,1,  ,102,		,40.8,		,fail
